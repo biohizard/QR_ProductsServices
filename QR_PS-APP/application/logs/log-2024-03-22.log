@@ -1,0 +1,7 @@
+DEBUG - 2024-03-22 00:14:19 --> UTF-8 Support Enabled
+DEBUG - 2024-03-22 00:14:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-03-22 00:14:24 --> Severity: Warning --> Undefined array key "Firstname" D:\noSync\Server\php\2023\Dr-systems\Drsystems-APP\application\views\dashboard\header.php 2
+ERROR - 2024-03-22 00:14:24 --> Severity: Warning --> Undefined array key "Secondname" D:\noSync\Server\php\2023\Dr-systems\Drsystems-APP\application\views\dashboard\header.php 2
+ERROR - 2024-03-22 00:14:25 --> Severity: Warning --> Undefined array key "User" D:\noSync\Server\php\2023\Dr-systems\Drsystems-APP\application\views\dashboard\beginmenu.php 8
+ERROR - 2024-03-22 00:14:25 --> Severity: Warning --> Undefined variable $emailcode D:\noSync\Server\php\2023\Dr-systems\Drsystems-APP\application\views\loop\footer\copyright.php 8
+DEBUG - 2024-03-22 00:14:25 --> Total execution time: 7.1515
