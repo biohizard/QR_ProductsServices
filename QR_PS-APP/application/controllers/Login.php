@@ -66,6 +66,7 @@ class Login extends CI_Controller
     //--->
     public function log_in()
     {
+
         session_start();
         session_destroy();
 
@@ -144,14 +145,13 @@ class Login extends CI_Controller
             //----------> 3.2
         }
         //----------> 3
-
         //---------------------------------------------------------------->
 
         /*Begin: Views */
         $this->load->view('loop/header'    , $data);
         $this->load->view('loop/body/login', $data);
-        
-            $this->load->view('login/log-in'   , $data);
+
+        $this->load->view('login/log-in'   , $data);
 
         $this->load->view('loop/footer/dark_light'    , $data);
         $this->load->view('loop/footer/copyright'    , $data);

@@ -1,0 +1,232 @@
+DEBUG - 2024-05-02 00:43:10 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 00:43:10 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 00:43:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-02 00:43:12 --> Severity: Warning --> Undefined variable $emailcode D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\copyright.php 8
+DEBUG - 2024-05-02 00:43:12 --> Total execution time: 3.0955
+DEBUG - 2024-05-02 00:47:50 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 00:47:50 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 00:47:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 00:47:51 --> Total execution time: 1.1974
+DEBUG - 2024-05-02 00:49:29 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 00:49:29 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 00:49:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 00:49:31 --> Total execution time: 1.3096
+DEBUG - 2024-05-02 00:55:04 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 00:55:04 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 00:55:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 00:55:05 --> Total execution time: 1.1631
+DEBUG - 2024-05-02 01:01:20 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:01:20 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:01:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:01:22 --> Total execution time: 1.2678
+DEBUG - 2024-05-02 01:03:05 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:03:05 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:03:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:03:06 --> Total execution time: 1.2579
+DEBUG - 2024-05-02 01:03:26 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:03:26 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:03:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:03:27 --> Total execution time: 1.4429
+DEBUG - 2024-05-02 01:04:01 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:04:01 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:04:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:04:02 --> Total execution time: 1.2191
+DEBUG - 2024-05-02 01:04:10 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:04:10 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:04:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:04:11 --> Total execution time: 1.4627
+DEBUG - 2024-05-02 01:04:48 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:04:48 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:04:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:04:49 --> Total execution time: 1.1490
+DEBUG - 2024-05-02 01:05:03 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:05:03 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:05:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:05:04 --> Total execution time: 1.1507
+DEBUG - 2024-05-02 01:05:07 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:05:07 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:05:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:05:08 --> Total execution time: 1.1666
+DEBUG - 2024-05-02 01:11:08 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:11:08 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:11:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:11:09 --> Total execution time: 1.1642
+DEBUG - 2024-05-02 01:13:47 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:13:47 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:13:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:13:48 --> Total execution time: 1.1902
+DEBUG - 2024-05-02 01:14:04 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:14:04 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:14:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:14:05 --> Total execution time: 1.1988
+DEBUG - 2024-05-02 01:14:23 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:14:23 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:14:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:14:25 --> Total execution time: 1.2484
+DEBUG - 2024-05-02 01:16:47 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:16:47 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:16:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:16:48 --> Total execution time: 1.1384
+DEBUG - 2024-05-02 01:19:45 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:19:45 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:19:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:19:46 --> Total execution time: 1.2341
+DEBUG - 2024-05-02 01:20:35 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:20:35 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:20:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:20:36 --> Total execution time: 1.1411
+DEBUG - 2024-05-02 01:21:46 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:21:46 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:21:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:21:48 --> Total execution time: 1.2535
+DEBUG - 2024-05-02 01:22:37 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:22:37 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:22:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:22:39 --> Total execution time: 1.2235
+DEBUG - 2024-05-02 01:23:09 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:23:09 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:23:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:23:10 --> Total execution time: 1.1175
+DEBUG - 2024-05-02 01:23:31 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:23:31 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:23:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:23:32 --> Total execution time: 1.1778
+DEBUG - 2024-05-02 01:23:58 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:23:58 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:23:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:24:00 --> Total execution time: 1.1812
+DEBUG - 2024-05-02 01:28:58 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:28:58 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:28:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:28:59 --> Total execution time: 1.2257
+DEBUG - 2024-05-02 01:29:31 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:29:31 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:29:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:29:33 --> Total execution time: 1.1635
+DEBUG - 2024-05-02 01:29:54 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:29:54 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:29:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:29:55 --> Total execution time: 1.1428
+DEBUG - 2024-05-02 01:30:13 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:30:13 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:30:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:30:14 --> Total execution time: 1.1164
+DEBUG - 2024-05-02 01:53:00 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:53:00 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:53:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:53:01 --> Total execution time: 1.1907
+DEBUG - 2024-05-02 01:54:05 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:54:05 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:54:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:54:06 --> Total execution time: 1.1385
+DEBUG - 2024-05-02 01:54:07 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:54:07 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:54:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:54:08 --> Total execution time: 1.1313
+DEBUG - 2024-05-02 01:54:23 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 01:54:23 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 01:54:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 01:54:24 --> Total execution time: 1.1820
+DEBUG - 2024-05-02 02:17:17 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:17:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 72
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $sub_page_title D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\header.php 15
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $sub_page_title2 D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\header.php 15
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $css D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\header.php 29
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 73
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $url D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\body\login.php 2
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 75
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 77
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 78
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 79
+ERROR - 2024-05-02 02:17:18 --> Severity: Warning --> Undefined variable $js D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\footer.php 9
+ERROR - 2024-05-02 02:17:18 --> Severity: 8192 --> explode(): Passing null to parameter #2 ($string) of type string is deprecated D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\footer.php 9
+DEBUG - 2024-05-02 02:17:18 --> Total execution time: 1.2002
+DEBUG - 2024-05-02 02:17:21 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:17:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 72
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $sub_page_title D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\header.php 15
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $sub_page_title2 D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\header.php 15
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $css D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\header.php 29
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 73
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $url D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\body\login.php 2
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 75
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 77
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 78
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $data D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\controllers\Login.php 79
+ERROR - 2024-05-02 02:17:22 --> Severity: Warning --> Undefined variable $js D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\footer.php 9
+ERROR - 2024-05-02 02:17:22 --> Severity: 8192 --> explode(): Passing null to parameter #2 ($string) of type string is deprecated D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\footer.php 9
+DEBUG - 2024-05-02 02:17:22 --> Total execution time: 1.1310
+DEBUG - 2024-05-02 02:17:28 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:17:28 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 02:17:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:17:29 --> Total execution time: 1.1189
+DEBUG - 2024-05-02 02:17:53 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:17:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:17:55 --> Total execution time: 1.2595
+DEBUG - 2024-05-02 02:17:57 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:17:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:17:59 --> Total execution time: 1.1957
+DEBUG - 2024-05-02 02:18:01 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:18:01 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 02:18:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:18:02 --> Total execution time: 1.1110
+DEBUG - 2024-05-02 02:18:25 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:18:25 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 02:18:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:18:26 --> Total execution time: 1.1785
+DEBUG - 2024-05-02 02:20:28 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:20:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:20:30 --> Total execution time: 1.3405
+DEBUG - 2024-05-02 02:20:31 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:20:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:20:33 --> Total execution time: 1.3699
+DEBUG - 2024-05-02 02:20:36 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:20:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:20:37 --> Total execution time: 1.1720
+DEBUG - 2024-05-02 02:20:39 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:20:39 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 02:20:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:20:40 --> Total execution time: 1.1463
+DEBUG - 2024-05-02 02:21:18 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:21:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:21:19 --> Total execution time: 1.3188
+DEBUG - 2024-05-02 02:21:21 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:21:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:21:22 --> Total execution time: 1.1219
+DEBUG - 2024-05-02 02:26:02 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:02 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-02 02:26:04 --> Severity: Warning --> Undefined array key "Firstname" D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\dashboard\header.php 2
+ERROR - 2024-05-02 02:26:04 --> Severity: Warning --> Undefined array key "Secondname" D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\dashboard\header.php 2
+ERROR - 2024-05-02 02:26:04 --> Severity: Warning --> Undefined array key "User" D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\dashboard\beginmenu.php 8
+DEBUG - 2024-05-02 02:26:04 --> Total execution time: 1.1374
+ERROR - 2024-05-02 02:26:04 --> Severity: Warning --> Undefined array key "Firstname" D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\dashboard\header.php 2
+ERROR - 2024-05-02 02:26:04 --> Severity: Warning --> Undefined array key "Secondname" D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\dashboard\header.php 2
+ERROR - 2024-05-02 02:26:04 --> Severity: Warning --> Undefined array key "User" D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\dashboard\beginmenu.php 8
+DEBUG - 2024-05-02 02:26:04 --> Total execution time: 1.2471
+DEBUG - 2024-05-02 02:26:04 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:05 --> Total execution time: 1.1767
+DEBUG - 2024-05-02 02:26:06 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:06 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 02:26:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:08 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:08 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 02:26:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:08 --> Total execution time: 1.2451
+DEBUG - 2024-05-02 02:26:09 --> Total execution time: 1.1740
+DEBUG - 2024-05-02 02:26:14 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:16 --> Total execution time: 1.3621
+DEBUG - 2024-05-02 02:26:17 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:18 --> Total execution time: 1.1228
+DEBUG - 2024-05-02 02:26:21 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:22 --> Total execution time: 1.1394
+DEBUG - 2024-05-02 02:26:23 --> UTF-8 Support Enabled
+DEBUG - 2024-05-02 02:26:23 --> No URI present. Default controller set.
+DEBUG - 2024-05-02 02:26:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2024-05-02 02:26:24 --> Total execution time: 1.0993

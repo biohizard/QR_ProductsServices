@@ -26,28 +26,25 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * @package	CodeIgniter
- * @author	EllisLab Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
- * @copyright	Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	http://codeigniter.com
- * @since	Version 1.0.0
+ * @package	   CodeIgniter
+ * @author	   EllisLab Dev Team
+ * @copyright	 Copyright (c) 2008 - 2014, EllisLab, Inc. (http://ellislab.com/)
+ * @copyright	 Copyright (c) 2014, British Columbia Institute of Technology (http://bcit.ca/)
+ * @license	   http://opensource.org/licenses/MIT	MIT License
+ * @link	     http://codeigniter.com
+ * @since	     Version 1.0.0
  * @filesource
  */
 
-//Fecha
+define("LX","Luxza Systems");
 date_default_timezone_set('America/Mexico_City');
-//echo 'Fecha/hora actual: ', date('Y-m-d h:i:s', time());
 
 $a_ngrok = explode(".", $_SERVER['HTTP_HOST']);
-
-define("GTV","golden trade value");
 
 //Local o Web
 if ($_SERVER['HTTP_HOST'] == 'localhost') {
   define("ZONA", 'local');
-  define("PAGETITLE", 'Local : ');
+  define("PAGETITLE", "Local :".$_SERVER['SERVER_NAME']);
 } elseif ($a_ngrok['1']   == 'ngrok') {
   define("ZONA",'ngrok');
   define("PAGETITLE", 'Local Ngrok: ');
@@ -56,63 +53,37 @@ if ($_SERVER['HTTP_HOST'] == 'localhost') {
   define("PAGETITLE", 'Remote : ');
 }
 
+$serverDell = 'biohizard@serverDell';
+$serverHp   = 'biohizard@serverHp';
+
+if ($_SERVER['SERVER_ADMIN'] == $serverDell) {
+  define("BASE_URL", '//' . $_SERVER['HTTP_HOST'] . '/server/2024/QR_ProductsServices/QR_ProductsServices/');
+} elseif ($_SERVER['SERVER_ADMIN'] == $serverHp) {
+  define("BASE_URL", '//' . $_SERVER['HTTP_HOST'] . '/server/2024/QR_ProductsServices/');
+} else {}
+
+
 //Config Local o Web
 if (ZONA == "local") {
   //----->
   define("TITLE", PAGETITLE . "Dr. Systems v1 - ");
 
-  define("BASE_URL", '//' . $_SERVER['HTTP_HOST'] . '/server/2024/QR_ProductsServices/');
-
   define("APP_URL", BASE_URL . "QR_PS-APP/");
   define("API_URL", BASE_URL . "QR_PS-API/");
   define("CDN_URL", BASE_URL . "QR_PS-CDN/QR_PS-CDN-app/");
 
   define("INDEX_PAGE", APP_URL . 'index.php/');
   define("DEFAULTROUTER", 'login/sign_in');
-
-  define("HOSTNAME", '107.180.40.108');
-  define("USERNAME", 'mxaifafbo');
-  define("PASSWORD", 'mxaifafbo2023');
-  define("DATABASE", 'aifafbomx_db');
   //----->
 } else if (ZONA == "ngrok") {
-
   //----->
-  /*
-            define("TITLE", PAGETITLE ." Money ngrok - ");
-
-            define("BASE_URL", '//'.$_SERVER['HTTP_HOST'].'/server/DevOps/GoldenTradeValue/');
-            
-              define("APP_URL",BASE_URL."GoldenTradeValue-APP/");
-              define("API_URL",BASE_URL."GoldenTradeValue-API/");
-              define("CDN_URL",BASE_URL."GoldenTradeValue-CDN-app/");
-              
-              define("INDEX_PAGE", APP_URL.'index.php/');
-              define("DEFAULTROUTER", 'user/login');
-
-              define("HOSTNAME", 'labs26.com');
-              define("USERNAME", 'labs26');
-              define("PASSWORD", '12345aeiou');
-              define("DATABASE", 'labs26');
-              */
   //----->
-
 } else if (ZONA == "web") {
   //----->
-  define("TITLE", PAGETITLE . "Dr. Systems v1 - ");
-
-  define("BASE_URL", '//' . $_SERVER['HTTP_HOST'] . '/server/2024/QR_ProductsServices/');
-
-  define("APP_URL", BASE_URL . "QR_PS-APP/");
-  define("API_URL", BASE_URL . "QR_PS-API/");
-  define("CDN_URL", BASE_URL . "QR_PS-CDN/QR_PS-CDN-app/");
-
-  define("INDEX_PAGE", APP_URL . 'index.php/');
-  define("DEFAULTROUTER", 'login/sign_in');
-
-  define("HOSTNAME", '107.180.40.108');
-  define("USERNAME", 'mxaifafbo');
-  define("PASSWORD", 'mxaifafbo2023');
-  define("DATABASE", 'aifafbomx_db');
   //----->
 }
+
+define("HOSTNAME", '107.180.40.108');
+define("USERNAME", 'mxaifafbo');
+define("PASSWORD", 'mxaifafbo2023');
+define("DATABASE", 'aifafbomx_db');

@@ -1,0 +1,20 @@
+DEBUG - 2024-05-01 21:13:15 --> UTF-8 Support Enabled
+DEBUG - 2024-05-01 21:13:15 --> No URI present. Default controller set.
+DEBUG - 2024-05-01 21:13:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-01 21:13:17 --> Severity: Warning --> Undefined variable $emailcode D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\copyright.php 8
+DEBUG - 2024-05-01 21:13:17 --> Total execution time: 2.5351
+DEBUG - 2024-05-01 21:14:08 --> UTF-8 Support Enabled
+DEBUG - 2024-05-01 21:14:08 --> No URI present. Default controller set.
+DEBUG - 2024-05-01 21:14:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-01 21:14:09 --> Severity: Warning --> Undefined variable $emailcode D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\copyright.php 8
+DEBUG - 2024-05-01 21:14:09 --> Total execution time: 1.2003
+DEBUG - 2024-05-01 21:19:32 --> UTF-8 Support Enabled
+DEBUG - 2024-05-01 21:19:32 --> No URI present. Default controller set.
+DEBUG - 2024-05-01 21:19:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-01 21:19:34 --> Severity: Warning --> Undefined variable $emailcode D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\copyright.php 8
+DEBUG - 2024-05-01 21:19:34 --> Total execution time: 1.2595
+DEBUG - 2024-05-01 21:22:31 --> UTF-8 Support Enabled
+DEBUG - 2024-05-01 21:22:31 --> No URI present. Default controller set.
+DEBUG - 2024-05-01 21:22:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2024-05-01 21:22:32 --> Severity: Warning --> Undefined variable $emailcode D:\noSync\Server\php\2024\QR_ProductsServices\QR_PS-APP\application\views\loop\footer\copyright.php 8
+DEBUG - 2024-05-01 21:22:32 --> Total execution time: 1.1560
